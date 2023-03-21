@@ -4,8 +4,8 @@ This repository contains various ZEISS Inspect add-on examples for educational a
 
 ## Complete add-on examples
 
-* Measurement System Analysis add-on: [MSA](examples/MeasurementSystemAnalysis/README.md)
+* Measurement System Analysis add-on: [MSA](examples/MeasurementSystemAnalysis)
 
 ## Add-on programming examples
 
-* Access resources from within scripts: [ResourceAccess](examples/ResourceAccess/README.md)
+* Access resources from within scripts: [ResourceAccess](examples/ResourceAccess)
