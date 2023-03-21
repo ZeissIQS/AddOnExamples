@@ -1,4 +1,11 @@
 # AddOnExamples
-Examples for add-on creators
 
-* Access resources from within scripts [](Resource&#32;access&#32;example)
+This repository contains various ZEISS Inspect add-on examples for educational and inspirational purposes.
+
+## Complete add-on examples
+
+* Measurement System Analysis add-on: [MSA](examples/MeasurementSystemAnalysis/README.md)
+
+## Add-on programming examples
+
+* Access resources from within scripts: [ResourceAccess](examples/ResourceAccess/README.md)
