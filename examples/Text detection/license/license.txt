@@ -1,0 +1,143 @@
+Terms of License and Use for GOM Packages (English version)
+===========================================================
+
+1. Scope, general information
+------------------------------
+
+1.1	These Terms of License and Use (“Terms of Use”) shall apply to all contracts between Carl Zeiss GOM Metrology GmbH (“Licensor”) and the user (“User”) to the extent that those contracts concern the free supply of GOM Packages and accompanying materials (hereinafter referred to as “GOM Packages”).
+
+1.2	The Terms of Use apply to the supply of new GOM Package versions. 
+
+1.3	The Terms of Use apply to the exclusion of any other terms and conditions. Differing, conflicting or supplementary general terms and conditions of business of the User shall be deemed to be included in the contract only if and insofar as the Licensor expressly accepts them in writing. Such acceptance shall be required in all cases, even if the Licensor is aware of the general terms and conditions of the user and commences provision of services to it without protest.
+
+1.4	Individually negotiated agreements with the User (including side agreements, additions and amendments) shall prevail over these Terms of Use in all cases. The content of such agreements shall be set out in a written contract or confirmed in writing by the Licensor.
+
+1.5	All declarations and notices of legal relevance issued to the Licensor by the User after conclusion of the contract (e.g. notices setting deadlines, reporting defects or giving notice of withdrawal from the contract or a reduction in the purchase price) must be sent to support@gom.com.
+
+2. Supply of GOM Packages, rights of use
+-----------------------------------------
+
+2.1	GOM Packages can be provided as protected packages (without readable source code) or unprotected packages (with readable source code). The GOM Packages and related user documentation are supplied via download.
+
+2.2	All rights in and to the GOM Packages belong to the Licensor and its own licensors. GOM Packages are protected by copyright and under international intellectual property treaties.
+
+2.3	GOM Packages are provided for an unlimited period.  
+
+2.4	The Licensor grants the User a royalty-free, non-exclusive right to use GOM Packages as set out in these Terms of Use. 
+
+2.5	The User
+
+-	may use GOM Packages for his or her professional needs on an unlimited number of computers
+-	may pass on GOM Packages to third parties free of charge
+-	may modify and edit GOM Packages as long as they are unprotected; the user may also protect and redistribute GOM Packages him- or herself
+-	must not edit GOM Packages if they are protected
+-	must not rent or pass on GOM Packages against payment without the explicit consent of the Licensor 
+
+2.6	The User shall not decompile or disassemble protected GOM Packages, reverse engineer or otherwise seek to discern the source code. Circumvention of the protective function is not permitted. If the User is permitted under mandatory law to reverse engineer or decompile the Software in order to ensure full functionality or interoperability with other programs, the User shall notify the Licensor beforehand of the nature and extent of the action it intends to take. The User is permitted to decompile the Software only if it demonstrates that it has a legitimate interest meriting protection in doing so.
+
+2.7	Under no circumstances may copyright notices, serial numbers, version numbers, trademarks or identifying features in GOM Packages be altered or removed. Nor may the on-screen display of such features be suppressed.
+
+3. Third-party software, open source software
+---------------------------------------------
+
+The use of open source is documented in the description of the respective GOM Package. The User has to include this package description for his own modified distributions and has to add licenses if he uses additional open source libraries.
+
+4. Liability and warranty
+-------------------------
+
+4.1	GOM Packages are supplied “as is“ and were not developed or modified to suit the licensee’s specific purposes. The Licensor shall be liable for loss or damage caused willfully or by gross negligence only. Further claims for damages or reimbursement of expenses on any grounds whatsoever, in particular claims for breach of contractual obligations and tort claims, are excluded.
+
+4.2	The Licensor shall be liable for material and legal defects in GOM Packages only if the Licensor has fraudulently concealed a material or legal defect in GOM Packages from the User. No further liability is accepted or warranty given that GOM Packages are free of material and legal defects.
+
+4.3	The Licensor shall be liable for data loss only if the User has backed up its data in machinereadable format at appropriate intervals and at least once per day and so ensured that the data can be restored with reasonable effort. If the User does not back up its data, the Licensor shall be liable to the extent that would have been necessary to restore properly backed up data and for the loss or damage resulting from the loss of current data that would have been lost even if the data had been backed up daily.
+
+4.4	In all cases, the User must test the basic functionalities of the GOM Packages using test data before he or she uses them productively.
+
+4.5	The User is responsible for security (antivirus software, firewall, etc.) and for maintaining the security of the equipment (e.g. PCs, servers) with which the User uses these GOM Packages.
+
+5. Final provisions
+-------------------
+
+5.1	Should individual provisions of these Terms of Use be found to be or become invalid or unenforceable, the validity of the remaining provisions shall not be affected thereby. Such invalid provision shall be deemed replaced by a provision that comes as close as possible to the commercial intent of the invalid provision. The same shall apply in the event that the Terms of Use are found to be incomplete.
+
+5.2	The User may assign rights arising from its contractual relationship with the Licensor only with the Licensor’s prior consent.
+
+5.3	Supply of the GOM Packages and all associated legal relationships between the Licensor and the User shall be governed by the laws of the Federal Republic of Germany. Application of the United Nations Convention on Contracts for the International Sales of Goods (CISG) is excluded.
+
+5.4	If the User is (i) a merchant [“Kaufmann”] within the meaning of the German Commercial Code or (ii) a legal person under public law or a special fund under public law [“öffentlich-rechtliches Sondervermögen”] or if (iii) there is no general jurisdiction for the User in the Federal Republic of Germany, it is agreed that disputes shall be brought before the courts of Munich, Germany. However, the Licensor shall still be entitled to bring proceedings or initiate other court proceedings in the User’s place of general jurisdiction.
+
+5.5	If these Terms of Use are translated into other languages, the German version only shall be legally binding.
+
+-----------------------------------------------------------------
+
+Lizenz- und Nutzungsbedingungen für GOM Packages (German version)
+=================================================================
+
+1. Geltungsbereich, Allgemeines
+-------------------------------
+
+1.1	Diese Lizenz- und Nutzungsbedingungen ("Nutzungsbedingungen") gelten für alle Verträge zwischen der Carl Zeiss GOM Metrology GmbH ("Lizenzgeber") und den jeweiligen Anwendern ("Anwender"), soweit diese die unentgeltliche Überlassung der GOM Packages und dem Begleitmaterial (nachfolgend "GOM Packages" genannt) zum Gegenstand haben.
+
+1.2 Diese Nutzungsbedingungen gelten entsprechend für die Überlassung neuer Versionen der GOM Packages. 
+
+1.3	Die Nutzungsbedingungen gelten ausschließlich. Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Anwenders werden nur dann und insoweit Vertragsbestandteil, als der Lizenzgeber ihrer Geltung ausdrücklich und schriftlich zugestimmt hat. Dieses Zustimmungserfordernis gilt in jedem Fall, beispielsweise auch dann, wenn der Lizenzgeber in Kenntnis der Allgemeinen Geschäftsbedingungen des Anwenders mit der Leistungserbringung an ihn vorbehaltlos beginnt.
+
+1.4	Im Einzelfall getroffene, individuelle Vereinbarungen mit dem Anwender (einschließlich Nebenabreden, Ergänzungen und Änderungen) haben in jedem Fall Vorrang vor diesen Nutzungsbedingungen. Für den Inhalt derartiger Vereinbarungen ist ein schriftlicher Vertrag bzw. die schriftliche Bestätigung des Lizenzgebers maßgebend.
+
+1.5	Rechtserhebliche Erklärungen und Anzeigen, die nach Vertragsschluss vom Anwender gegenüber dem Lizenzgeber abzugeben sind (z.B. Fristsetzungen, Mängelanzeigen, Erklärung von Rücktritt oder Minderung) sind an support@gom.com zu richten
+
+2. Überlassung der GOM Packages, Nutzungsrechte
+-----------------------------------------------
+
+2.1	GOM Packages können geschützt (ohne lesbaren Quelltext) oder ungeschützt (mit lesbarem Quelltext) überlassen werden. Die Überlassung der GOM Packages sowie der zugehörigen Benutzerdokumentation erfolgt durch Datenfernübertragung ("Download").
+
+2.2	Alle Rechte an den GOM Packages stehen ausschließlich dem Lizenzgeber und seinen jeweiligen Lizenzgebern zu. Die GOM Packages werden durch das Urheberrecht sowie internationale Abkommen zum Schutz des geistigen Eigentums geschützt.
+
+2.3	Die Überlassung der GOM Packages ist auf unbestimmte Zeit gerichtet.  
+
+2.4	Der Anwender erhält vom Lizenzgeber das unentgeltliche, nicht-ausschließliche Recht, die GOM Packages in dem in diesen Nutzungsbedingungen festgelegten Umfang zu nutzen. 
+
+2.5	Der Anwender darf die GOM Packages
+---------------------------------------
+
+- für seine beruflichen Bedarfe verwenden und die GOM Packages auf einer beliebigen Anzahl von Computern laufen lassen
+- kostenlos an Dritte weitergeben
+- sofern sie ungeschützt sind, modifizieren und bearbeiten; sie anschließend auch selber schützen und weiterverbreiten
+- sofern sie geschützt sind, nicht bearbeiten.
+- ohne ausdrückliche Zustimmung des Lizenzgebers nicht vermieten oder gegen Entgelt weitergeben 
+
+2.6	Der Anwender wird die geschützten GOM Packages weder dekompilieren noch disassemblieren, ein Reverse Engineering vornehmen oder anderweitig versuchen, den Quellcode abzuleiten. Eine Umgehung der Schutzfunktion ist nicht gestattet. Sofern der Anwender aufgrund zwingender Gesetze ein Reverse Engineering oder eine Dekompilierung vornehmen darf, um eine volle Funktionsfähigkeit oder Interoperabilität mit anderen Softwareprogrammen zu erreichen, hat der Anwender den Lizenzgeber vorab über Art und Umfang der beabsichtigten Handlung zu informieren. Eine Dekompilierung ist nur zulässig, wenn der Anwender ein schutzwürdiges, berechtigtes Interesse an der Vornahme dieser Handlungen nachweist.
+
+2.7	Urhebervermerke, Seriennummern, Versionsnummern, Markenzeichen oder sonstige Identifikationsmerkmale der GOM Packages dürfen in keinem Fall geändert oder entfernt werden. Gleiches gilt für die Unterdrückung der Bildschirmanzeige entsprechender Merkmale.
+
+
+3. Software Dritter ("Fremdsoftware"), Open Source Software
+-----------------------------------------------------------
+
+Die Verwendung von Open Source ist in der Beschreibung zu dem jeweiligen GOM Package dokumentiert. Der Anwender muss diese Paketbeschreibung bei eigenen modifizierten Distributionen beifügen und muss Lizenzen hinzufügen, wenn er zusätzliche Open-Source-Bibliotheken verwendet.
+
+4. Haftung und Gewährleistung
+-----------------------------
+
+4.1	Die GOM Packages werden "as is" (Ist-Zustand) zur Verfügung gestellt und wurden nicht speziell für die Zwecke des Lizenznehmers entwickelt oder angepasst. Der Lizenzgeber haftet nur für Vorsatz und grobe Fahrlässigkeit. Weitergehende Schadens- und Aufwendungsersatzansprüche des Anwenders, gleich aus welchem Rechtsgrund, insbesondere wegen Verletzung von Pflichten aus dem Schuldverhältnis und aus unerlaubter Handlung, sind ausgeschlossen.
+
+4.2	Für Sach- und Rechtsmängel der GOM Packages haftet der Lizenzgeber nur, wenn der Lizenzgeber dem Anwender einen Sach- und/oder Rechtsmangel der GOM Packages arglistig verschwiegen hat. Eine darüberhinausgehende Haftung oder Gewährleistung für die Sach- und Rechtsmängelfreiheit der GOM Packages ist ausgeschlossen.
+
+4.3	Für den Verlust von Daten haftet der Lizenzgeber nur, soweit der Anwender diese in anwendungsadäquaten Intervallen, mindestens einmal täglich, in maschinenlesbarer Form sichert und damit gewährleistet, dass diese Daten mit vertretbarem Aufwand wiederhergestellt werden können. Führt der Anwender keine solchen Datensicherungen durch, ist die Haftung des Lizenzgebers auf den Aufwand begrenzt, der zur Wiederherstellung der Daten aus einer ordnungsgemäßen Datensicherung erforderlich gewesen wäre, sowie dem Schaden, der durch den Verlust aktueller Daten, die auch bei täglicher Datensicherung verloren gegangen wären, eingetreten ist.
+
+4.4	Der Anwender ist in jedem Fall verpflichtet, bevor er die GOM Packages produktiv nutzt, diese unter Einsatz von Testdaten hinsichtlich der grundlegenden Funktionalitäten zu prüfen.
+
+4.5	Ebenso ist der Anwender für die Sicherheit (Virenschutz, Firewall etc.) sowie den Erhalt der Sicherheit seiner Endgeräte (z.B. PC, Server), über die der Anwender diese GOM Packages nutzt, selbst verantwortlich.
+
+5.  Schlussbestimmungen
+-----------------------
+
+5.1	Sollten einzelne Bestimmung dieser Nutzungsbedingungen unwirksam oder undurchführbar sein oder werden, so wird die Wirksamkeit der übrigen Bestimmungen hiervon nicht berührt. Anstelle der unwirksamen Bestimmung soll eine Bestimmung als vereinbart gelten, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt. Gleiches gilt für den Fall, dass diese Nutzungsbedingungen lückenhaft sind.
+
+5.2	Die Abtretung von Rechten des Anwenders aus der Vertragsbeziehung mit dem Lizenzgeber ist nur mit vorheriger Zustimmung des Lizenzgebers zulässig.
+
+5.3	Für die Überlassung der GOM Packages sowie alle hiermit im Zusammenhang stehenden Rechtsbeziehungen zwischen dem Lizenzgeber und dem Anwender gilt das Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Abkommens über den internationalen Warenkauf (CISG) ist ausgeschlossen.
+
+5.4	Soweit der Anwender (i) Kaufmann im Sinne des Deutschen Handelsgesetzbuches ist, (ii) es sich beim Kunden eine juristische Person des öffentlichen Rechts oder öffentlich rechtliches Sondervermögen handelt oder (iii) der Anwender keinen allgemeinen Gerichtsstand in der Bundesrepublik Deutschland hat, wird München, Deutschland als Gerichtsstand vereinbart. Der Lizenzgeber bleibt jedoch zur Erhebung einer Klage oder der Einleitung sonstiger gerichtlicher Verfahren am allgemeinen Gerichtsstand des Anwenders berechtigt.
+
+5.5	Soweit von diesen Nutzungsbedingungen Übersetzungen in andere Sprachen erstellt werden, bleibt ausschließlich die deutsche Fassung die rechtlich bindende.
