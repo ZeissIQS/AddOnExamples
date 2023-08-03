@@ -8,7 +8,7 @@ import numpy as np
 #
 # Path to the installed terresact executable
 #
-TESSERACT_PATH = 'C:/Users/IQFBLANK/AppData/Local/Programs/Tesseract-OCR/tesseract.exe'
+TESSERACT_PATH = '<ENTER PATH TO TESSERACT BINARY HERE>'
 
 def get_image ():
 	measurement = gom.app.project.measurement_series['Scan 1'].measurements['M1']

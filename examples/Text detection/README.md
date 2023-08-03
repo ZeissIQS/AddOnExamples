@@ -13,6 +13,4 @@ The following python wheels must be added to the add-on and are not included due
 
 In addition, the tesseract executable must be installed and the path to that executable must be adapted in the script.
 
-## Example
-
-![Software](text_detection.png)
+![Software](doc/text_detection.png)
