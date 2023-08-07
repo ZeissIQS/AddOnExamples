@@ -1,7 +1,7 @@
 # Text detection in images
 
 This example demonstrates how external libraries can be used to detect and extract text fragments in images. It uses the Tesseract library for that purpose. The resulting element will be a "scripted element" which 
-integrated nealty into a ZEISS inspect project and can be edited, recalculated or checked.
+integrated neatly into a ZEISS inspect project and can be edited, recalculated or checked.
 
 ## Preliminaries
 
