@@ -16,4 +16,6 @@ In principle, a ZEISS INSPECT Add-on is just a zip'ed directory with a special s
 * Access resources from within scripts: [ResourceAccess](examples/ResourceAccess)
 * Display measurement data from a scan as an image in a user-defined dialog: [DisplayImage](examples/DisplayImage)
 * Extract text from images (measurement data) and provide it as a scripted actual element: [TextDetection](examples/TextDetection)
+* File selection and filtering: [FileSelectionAndFiltering](examples/FileSelectionAndFiltering)
 * Save settings persistently using the `settings` API: [SettingsAPI](examples/SettingsAPI)
+* Template for unit testing and generating a test coverage report: [TemplateUnittestCoverage](examples/TemplateUnittestCoverage)
