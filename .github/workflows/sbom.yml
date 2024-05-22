@@ -1,4 +1,4 @@
-name: Docs
+name: SBOM
 on: [workflow_dispatch]
 jobs:
   docs:
