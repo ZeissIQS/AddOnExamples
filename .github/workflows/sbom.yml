@@ -9,5 +9,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: Generate SBOM 
         run: |
+          cd examples/DisplayImage
           gh ext install advanced-security/gh-sbom
           gh sbom | jq
