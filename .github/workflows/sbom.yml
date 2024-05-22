@@ -1,0 +1,13 @@
+name: SBOM
+on: [workflow_dispatch]
+env:
+    GH_TOKEN: ${{ github.token }}
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SBOM 
+        run: |
+          gh ext install advanced-security/gh-sbom
+          gh sbom | jq
