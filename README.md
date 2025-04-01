@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository has been copied to https://github.com/ZEISS/zeiss-inspect-app-examples and will eventually be deleted.
+
 # AddOnExamples
 
 This repository contains various [ZEISS INSPECT](https://www.zeiss.com/metrology/products/software.html#inspectionsolutions) Add-on examples for educational and inspirational purposes.
